@@ -1,0 +1,33 @@
+# PlatformIO build and dependencies
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+dist/
+*.egg-info/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Python and dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.egg
+
+# Temporary files
+*.tmp
+*.bak
+*.log
