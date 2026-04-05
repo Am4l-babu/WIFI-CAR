@@ -31,3 +31,9 @@ __pycache__/
 *.tmp
 *.bak
 *.log
+
+# SENSITIVE CONFIGURATION FILES (DO NOT COMMIT!)
+include/config_secrets.h
+config_secrets.h
+!include/config_secrets_template.h
+
